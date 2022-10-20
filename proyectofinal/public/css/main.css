@@ -8,7 +8,7 @@ body{
 
     
     font-family: 'Ibarra Real Nova', serif;
-    font-size: 1.2vw;
+    font-size: 120%;
     
 }
 
@@ -16,7 +16,7 @@ body{
     background-image: url(/public/images/fondo.jpg) ;
 }
 
-#sidebarL a, #sidebarR a{
+ #sidebarR a{
     text-decoration: none;
     color: rgb(142, 127, 199);
     font-family: 'Ibarra Real Nova', serif;
@@ -30,7 +30,7 @@ body{
     font-family: 'Ibarra Real Nova', serif;
     font-weight: 600;
     font-style: italic;
-    font-size: 2vw;
+    font-size: 150%;
     color: black;
  }
 
@@ -53,7 +53,7 @@ img {
     color: rgb(77, 10, 139);
     font-weight: 700;
     font-style: italic;
-    font-size: 3vw;
+    font-size: 240%;
 }
 
 #lista2 {
@@ -61,7 +61,7 @@ img {
     
     font-weight: 600;
     font-style: italic;
-    font-size: 2vw;
+    font-size: 140%;
     
     
     
@@ -72,7 +72,7 @@ img {
 #tcat{
     font-weight: 700;
     font-style: italic;
-    font-size: 2vw;
+    font-size: 2.2vw;
     
 }
 #lista2 li, #tcat{
